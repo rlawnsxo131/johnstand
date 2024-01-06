@@ -1,0 +1,28 @@
+{
+  "name": "johnstand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "state",
+    "state manager"
+  ],
+  "author": "juntea kim(john)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.47",
+    "@typescript-eslint/eslint-plugin": "^6.18.0",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "use-sync-external-store": "^1.2.0"
+  }
+}
